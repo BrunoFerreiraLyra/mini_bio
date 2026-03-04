@@ -19,7 +19,7 @@ export default function Home() {
         Bruno Ferreira de Andrade Lyra
       </h1>
       <p className="max-w-md text-center text-gray-600">
-        Me chamo Bruno, tenho 20 anos, moro em Recife, e atualmente estou cursando o 5° periodo de Ciencia da Computação na UNICAP.
+        Me chamo Bruno. Tenho 20 anos. Atualmente estou cursando o 5° periodo de Ciencia da Computação na UNICAP.
       </p>
 
     </main>
